@@ -45,7 +45,7 @@ CREATE TABLE contacts (
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/contact-book-python.git
+   git clone https://github.com/HarshalNikhade/Contact-Book.git
    cd contact-book-python
    ```
 
